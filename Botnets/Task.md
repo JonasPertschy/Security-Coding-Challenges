@@ -32,5 +32,5 @@ This solution in python can be found in the "solution.py" file.
 
 Install requirements:
 ```bash
-pip3 install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
